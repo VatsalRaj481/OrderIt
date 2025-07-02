@@ -135,16 +135,6 @@ Feel free to fork this repo and create pull requests for improvements or new fea
 
 ---
 
- 📄 License
-
-MIT License
-
----
-
- ✨ Happy Coding!
-
----
-
 ✅ Instructions to add:
 
 1. Create a file `README.md` in your project root.
